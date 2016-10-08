@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkgray;
+    text-align: center;
+}
+
+h2 {
+	color:white;
+	text-align: center;
+}
+
+h3 {
+	color:ligthgreen;
+	text-align:center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+tbody {
+	background-color: darkblue;
+	
+}
